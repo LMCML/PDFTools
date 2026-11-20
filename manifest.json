@@ -1,6 +1,6 @@
 {
     "name" : "PDF转换及编辑工具组",
-    "appid" : "__UNI__6557979",
+    "appid" : "",
     "description" : "提供PDF文件相关的操作",
     "versionName" : "1.0.4",
     "versionCode" : 104,
@@ -50,7 +50,7 @@
     "quickapp" : {},
     /* 小程序特有相关 */
     "mp-weixin" : {
-        "appid" : "wx751f699908316c7b",
+        "appid" : "",
         "setting" : {
             "urlCheck" : false
         },
